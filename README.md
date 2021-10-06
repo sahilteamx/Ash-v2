@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="Ash_v2.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="Ash_v2.png" alt="GIF" width="250" height="200"/>
 </p>
@@ -14,7 +14,7 @@
 <a href="#"><img title="Ash_v2.png" src="https://img.shields.io/badge/Sahil-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/sahilteamx"><img title="Author" src="https://img.shields.io/badge/Author.sahilteamx/Ash-v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/sahilteamx"><img title="Author" src="https://img.shields.io/badge/Author-Sahil?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
